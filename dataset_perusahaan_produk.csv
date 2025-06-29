@@ -1,0 +1,11 @@
+id_perusahaan,nama_perusahaan,negara_asal,tahun_berdiri,nama_produk,jenis_produk,tahun_rilis,kategori_industri,harga_rata_rata,wilayah_pemasaran
+P1,Apple Inc.,USA,1976,iPhone 14,Smartphone,2022,Teknologi,999.0,Global
+P2,Samsung,Korea Selatan,1938,Galaxy S23,Smartphone,2023,Teknologi,899.0,Global
+P3,Toyota,Jepang,1937,Camry,Mobil Sedan,2022,Otomotif,25000.0,Global
+P4,Unilever,UK/Netherlands,1929,Lifebuoy,Sabun,2021,Kebutuhan Rumah,2.0,Asia
+P5,Nestlé,Swiss,1866,Milo,Minuman,2020,Makanan & Minuman,1.5,Asia Tenggara
+P6,Sony,Jepang,1946,PlayStation 5,Konsol Game,2020,Teknologi,499.0,Global
+P7,Nike,USA,1964,Air Max,Sepatu,2022,Fashion,150.0,Global
+P8,Microsoft,USA,1975,Surface Pro,Laptop/Tablet,2021,Teknologi,1200.0,Global
+P9,Tesla,USA,2003,Model 3,Mobil Listrik,2023,Otomotif,35000.0,Global
+P10,Indomie (Indofood),Indonesia,1972,Indomie Goreng,Mi Instan,2021,Makanan,0.25,Global
